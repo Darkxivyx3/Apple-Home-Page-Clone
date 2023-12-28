@@ -1,4 +1,3 @@
-
 # Apple Pro Vision Home Page Clone
 
 **Project Overview:**
